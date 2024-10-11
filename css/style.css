@@ -67,6 +67,11 @@
     border-radius: 115px;
   }
   
+footer .social-icons a {
+  width: 30px;
+  height: 30px;
+}
+
   /* Contact section background image */
   #contact {
     background-size: cover;
